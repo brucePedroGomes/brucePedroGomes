@@ -6,8 +6,9 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=760&lines=10%2B+anos+construindo+sistemas+complexos+e+escal%C3%A1veis;Serverless+%26+Microservices+de+alta+disponibilidade;Node.js+%7C+TypeScript+%7C+Python+%7C+React;IA+em+produ%C3%A7%C3%A3o%3F+isso+%C3%A9+s%C3%B3+o+plus+%F0%9F%A4%96;true+technology+lover+based+in+Brazil+%F0%9F%87%A7%F0%9F%87%B7)](https://github.com/brucePedroGomes)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=760&lines=10%2B+years+building+complex%2C+scalable+systems;Serverless+%26+Microservices%2C+highly+available;Node.js+%7C+TypeScript+%7C+Python+%7C+React;AI+in+production%3F+that%27s+just+the+bonus+%F0%9F%A4%96;true+technology+lover+based+in+Brazil+%F0%9F%87%A7%F0%9F%87%B7)](https://brucegomes.com.br)
 
+<a href="https://brucegomes.com.br"><img src="https://img.shields.io/badge/Website-brucegomes.com.br-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/brucepedrogomes"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:brucegomestech@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://wa.me/5544991738164"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
@@ -17,17 +18,18 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Sobre mim
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> About me
 
 ```ts
 const bruce = {
   role: "Senior Full-Stack Engineer · Backend-Focused",
-  experience: "10+ anos",
+  experience: "10+ years",
   location: "Cascavel, Paraná 🇧🇷",
   currentlyAt: "Levva — serverless mission-critical systems @ AWS",
-  focus: ["Sistemas escaláveis", "Alta disponibilidade", "Serverless", "Microservices", "Event-Driven"],
-  building: "sistemas complexos, escaláveis e de alta disponibilidade",
-  plus: "agentes de IA autônomos em produção (RAG + MCP) 🤖",
+  focus: ["Scalable systems", "High availability", "Serverless", "Microservices", "Event-Driven"],
+  building: "complex, scalable and highly available systems",
+  plus: "autonomous AI agents in production (RAG + MCP) 🤖",
+  website: "https://brucegomes.com.br",
   daily: "Arch Linux + Hyprland 🐧",
   philosophy: "Clean Architecture, SOLID, DDD, ship it 🚀",
 };
@@ -37,7 +39,7 @@ const bruce = {
 
 ### 🧠 Tech Arsenal
 
-#### Linguagens
+#### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -68,7 +70,7 @@ const bruce = {
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-#### AI / Agentes & Web3
+#### AI / Agents & Web3
 ![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-6a00ff?style=flat-square&logo=openai&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-00f0ff?style=flat-square&logo=modelcontextprotocol&logoColor=black)
@@ -80,7 +82,7 @@ const bruce = {
 
 ---
 
-### 📊 Estatísticas
+### 📊 Stats
 
 <div align="center">
 
