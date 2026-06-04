@@ -86,12 +86,12 @@ const bruce = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brucePedroGomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=6a00ff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brucePedroGomes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brucePedroGomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=6a00ff"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brucePedroGomes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&langs_count=8"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=brucePedroGomes&theme=tokyonight&hide_border=true&background=0D1117&stroke=00f0ff&ring=6a00ff&fire=00f0ff&currStreakLabel=00f0ff"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=brucePedroGomes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+<img src="https://github-profile-trophy-eight.vercel.app/?username=brucePedroGomes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
 
 </div>
 
