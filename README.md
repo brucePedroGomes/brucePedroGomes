@@ -1,7 +1,7 @@
 <!-- ====================== NEON / DARK HACKER ====================== -->
 
 <a href="https://github.com/brucePedroGomes">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,50:6a00ff,100:00f0ff&height=220&section=header&text=Bruce+Pedro+Gomes&fontColor=ffffff&fontSize=50&fontAlignY=36&desc=Senior+Backend+%26+Full-Stack+Engineer&descAlignY=58&descSize=20" alt="Bruce Pedro Gomes"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,50:6a00ff,100:00f0ff&height=220&section=header&text=Bruce+Pedro+Gomes&fontColor=ffffff&fontSize=50&fontAlignY=36&desc=Senior+Full-Stack+Engineer+%E2%80%94+Backend-Focused&descAlignY=58&descSize=20" alt="Bruce Pedro Gomes"/>
 </a>
 
 <div align="center">
@@ -21,7 +21,7 @@
 
 ```ts
 const bruce = {
-  role: "Senior Backend & Full-Stack Engineer",
+  role: "Senior Full-Stack Engineer · Backend-Focused",
   experience: "7+ anos",
   location: "Cascavel, Paraná 🇧🇷",
   currentlyAt: "Levva — serverless mission-critical systems @ AWS",
