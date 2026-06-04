@@ -1,12 +1,12 @@
 <!-- ====================== NEON / DARK HACKER ====================== -->
 
 <a href="https://github.com/brucePedroGomes">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,50:6a00ff,100:00f0ff&height=200&section=header&text=Bruce%20Pedro%20Gomes&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Senior%20Backend%20%26%20Full-Stack&descAlignY=60&descSize=18&animation=fadeIn" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,50:6a00ff,100:00f0ff&height=220&section=header&text=Bruce+Pedro+Gomes&fontColor=ffffff&fontSize=50&fontAlignY=36&desc=Senior+Backend+%26+Full-Stack+Engineer&descAlignY=58&descSize=20" alt="Bruce Pedro Gomes"/>
 </a>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=720&lines=9%2B+anos+arquitetando+sistemas+escal%C3%A1veis;Serverless+%26+Microservices+na+AWS;Node.js+%7C+TypeScript+%7C+Python+%7C+React;Construindo+agentes+de+IA+em+produ%C3%A7%C3%A3o+%F0%9F%A4%96;true+technology+lover+based+in+Brazil+%F0%9F%87%A7%F0%9F%87%B7)](https://github.com/brucePedroGomes)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=760&lines=9%2B+anos+construindo+sistemas+complexos+e+escal%C3%A1veis;Serverless+%26+Microservices+de+alta+disponibilidade;Node.js+%7C+TypeScript+%7C+Python+%7C+React;IA+em+produ%C3%A7%C3%A3o%3F+isso+%C3%A9+s%C3%B3+o+plus+%F0%9F%A4%96;true+technology+lover+based+in+Brazil+%F0%9F%87%A7%F0%9F%87%B7)](https://github.com/brucePedroGomes)
 
 <a href="https://linkedin.com/in/brucepedrogomes"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:brucegomestech@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -25,8 +25,9 @@ const bruce = {
   experience: "9+ anos",
   location: "Cascavel, Paraná 🇧🇷",
   currentlyAt: "Levva — serverless mission-critical systems @ AWS",
-  focus: ["Serverless", "Microservices", "Event-Driven", "AI Agents"],
-  building: "agentes de IA autônomos em produção (RAG + MCP)",
+  focus: ["Sistemas escaláveis", "Alta disponibilidade", "Serverless", "Microservices", "Event-Driven"],
+  building: "sistemas complexos, escaláveis e de alta disponibilidade",
+  plus: "agentes de IA autônomos em produção (RAG + MCP) 🤖",
   daily: "Arch Linux + Hyprland 🐧",
   philosophy: "Clean Architecture, SOLID, DDD, ship it 🚀",
 };
