@@ -1,0 +1,46 @@
+name: 📊 Generate Stats Cards
+
+on:
+  # roda todo dia de madrugada pra manter os cards atualizados
+  schedule:
+    - cron: "17 4 * * *"
+  # permite rodar manualmente na aba Actions
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          # se o GitHub limitar a API, falha o job em vez de gravar o card de erro
+          # — assim o SVG bom que já está commitado continua no lugar
+          fail_on_error: "true"
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=6a00ff
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: "true"
+          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&langs_count=8
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "chore: update README stats cards" || exit 0
+          git push
