@@ -85,22 +85,25 @@ const bruce = {
 ### 📊 Stats
 
 <!--
-  These cards are rendered by a public github-readme-stats instance.
-  Public instances share one pool of GitHub tokens and periodically die with
-  "Maximum retries exceeded" once that pool is rate-limited.
+  Cards are served by github-stats-extended, the maintained successor to
+  anuraghazra/github-readme-stats (which is no longer maintained). It is
+  parameter-compatible — migrating is only a domain swap.
+    https://github.com/stats-organization/github-stats-extended
 
-  Permanent fix — host your own (free, ~5 min):
-    1. Fork https://github.com/anuraghazra/github-readme-stats
+  If this public instance ever fails with "Maximum retries exceeded", its
+  shared GitHub token pool is rate-limited. Host your own to fix it for good:
+    1. Fork https://github.com/stats-organization/github-stats-extended
     2. Import the fork at https://vercel.com/new
     3. Add an env var PAT_1 = a GitHub token with `public_repo` scope
-    4. Replace every "github-readme-stats-eight-sable.vercel.app" below
-       with your own <project>.vercel.app domain
+    4. In Settings -> Deployment Protection, disable Vercel Authentication
+       (otherwise GitHub's image proxy gets a login page, not a card)
+    5. Replace "github-stats-extended.vercel.app" below with your own domain
 -->
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-eight-sable.vercel.app/api?username=brucePedroGomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=6a00ff&cache_seconds=86400"/>
-<img height="180em" src="https://github-readme-stats-eight-sable.vercel.app/api/top-langs/?username=brucePedroGomes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&langs_count=8&cache_seconds=86400"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=brucePedroGomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=6a00ff&cache_seconds=86400"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=brucePedroGomes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&langs_count=8&cache_seconds=86400"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=brucePedroGomes&theme=tokyonight&hide_border=true&background=0D1117&stroke=00f0ff&ring=6a00ff&fire=00f0ff&currStreakLabel=00f0ff"/>
 
