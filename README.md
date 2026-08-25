@@ -84,10 +84,23 @@ const bruce = {
 
 ### 📊 Stats
 
+<!--
+  These cards are rendered by a public github-readme-stats instance.
+  Public instances share one pool of GitHub tokens and periodically die with
+  "Maximum retries exceeded" once that pool is rate-limited.
+
+  Permanent fix — host your own (free, ~5 min):
+    1. Fork https://github.com/anuraghazra/github-readme-stats
+    2. Import the fork at https://vercel.com/new
+    3. Add an env var PAT_1 = a GitHub token with `public_repo` scope
+    4. Replace every "github-readme-stats-eight-sable.vercel.app" below
+       with your own <project>.vercel.app domain
+-->
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brucePedroGomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=6a00ff"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brucePedroGomes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats-eight-sable.vercel.app/api?username=brucePedroGomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=6a00ff&cache_seconds=86400"/>
+<img height="180em" src="https://github-readme-stats-eight-sable.vercel.app/api/top-langs/?username=brucePedroGomes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&langs_count=8&cache_seconds=86400"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=brucePedroGomes&theme=tokyonight&hide_border=true&background=0D1117&stroke=00f0ff&ring=6a00ff&fire=00f0ff&currStreakLabel=00f0ff"/>
 
@@ -112,8 +125,6 @@ const bruce = {
 ---
 
 <div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brucePedroGomes&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f0ff&line=6a00ff&point=ffffff&area=true)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:6a00ff,100:0a0a2e&height=120&section=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=20&fontAlignY=65" width="100%"/>
 
