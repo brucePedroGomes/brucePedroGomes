@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=760&lines=7%2B+years+building+and+operating+production+systems;Backend%3A+Node.js+%7C+TypeScript+%7C+Python+%7C+AWS%2C+serverless+and+containers;AI+agents+with+tool+use%3A+WhatsApp+assistant+on+Amazon+Bedrock;Remote+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7+%7C+open+to+any+country)](https://brucegomes.com.br)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=760&lines=7%2B+years+building+and+operating+production+systems;Backend%3A+Node.js+%7C+TypeScript+%7C+Python+%7C+AWS+%7C+Docker;AI+agents+with+tool+use%3A+WhatsApp+assistant+on+Amazon+Bedrock;Remote+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7+%7C+open+to+any+country)](https://brucegomes.com.br)
 
 <a href="https://brucegomes.com.br"><img src="https://img.shields.io/badge/Website-brucegomes.com.br-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/brucepedrogomes"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -26,7 +26,7 @@ const bruce = {
   experience: "7+ years building and operating production systems",
   location: "Brazil 🇧🇷 · remote (UTC−3) · open to any country",
   currentlyAt: "Levva · sole backend engineer on the Corteva project (AWS serverless)",
-  stack: ["Node.js", "TypeScript", "Python", "PostgreSQL", "AWS (serverless and containers)", "React"],
+  stack: ["Node.js", "TypeScript", "Python", "PostgreSQL", "AWS", "Docker", "React"],
   architecture: ["Serverless", "Containers", "Event-driven", "Microservices", "DDD"],
   ai: "AI agents with tool use: a WhatsApp assistant on Amazon Bedrock, plus requirements-analysis and code-review agents (MCP)",
   practices: ["TDD", "Infrastructure as code", "CI/CD", "Code review"],
