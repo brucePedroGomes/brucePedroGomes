@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=760&lines=7%2B+years+building+complex%2C+scalable+systems;Serverless+%26+Microservices%2C+highly+available;Node.js+%7C+TypeScript+%7C+Python+%7C+React;AI+in+production%3F+that%27s+just+the+bonus+%F0%9F%A4%96;true+technology+lover+based+in+Brazil+%F0%9F%87%A7%F0%9F%87%B7)](https://brucegomes.com.br)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=760&lines=7%2B+years+building+and+operating+production+systems;Backend%3A+Node.js+%7C+TypeScript+%7C+Python+%7C+AWS+serverless;AI+agents+with+tool+use%3A+WhatsApp+assistant+on+Amazon+Bedrock;Remote+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7+%7C+open+to+any+country)](https://brucegomes.com.br)
 
 <a href="https://brucegomes.com.br"><img src="https://img.shields.io/badge/Website-brucegomes.com.br-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/brucepedrogomes"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -22,16 +22,16 @@
 
 ```ts
 const bruce = {
-  role: "Senior Full-Stack Engineer · Backend-Focused",
-  experience: "7+ years",
-  location: "Cascavel, Paraná 🇧🇷",
-  currentlyAt: "Levva — serverless mission-critical systems @ AWS",
-  focus: ["Scalable systems", "High availability", "Serverless", "Microservices", "Event-Driven"],
-  building: "complex, scalable and highly available systems",
-  plus: "autonomous AI agents in production (RAG + MCP) 🤖",
+  role: "Senior Full-Stack Software Engineer · backend-focused",
+  experience: "7+ years building and operating production systems",
+  location: "Brazil 🇧🇷 · remote (UTC−3) · open to any country",
+  currentlyAt: "Levva · sole backend engineer on the Corteva project (AWS serverless)",
+  stack: ["Node.js", "TypeScript", "Python", "PostgreSQL", "AWS serverless", "React"],
+  architecture: ["Serverless", "Event-driven", "Microservices", "DDD"],
+  ai: "AI agents with tool use: a WhatsApp assistant on Amazon Bedrock, plus requirements-analysis and code-review agents (MCP)",
+  practices: ["TDD", "Infrastructure as code", "CI/CD", "Code review"],
   website: "https://brucegomes.com.br",
   daily: "Arch Linux + Hyprland 🐧",
-  philosophy: "Clean Architecture, SOLID, DDD, ship it 🚀",
 };
 ```
 
@@ -43,38 +43,37 @@ const bruce = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 #### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Apollo](https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=apollographql&logoColor=white)
+![Apollo](https://img.shields.io/badge/Apollo_Federation-311C87?style=flat-square&logo=apollographql&logoColor=white)
 
 #### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
 
 #### Cloud, DevOps & Data
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-#### AI / Agents & Web3
+#### AI / Agents
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-00f0ff?style=flat-square&logo=modelcontextprotocol&logoColor=black)
 ![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-6a00ff?style=flat-square&logo=openai&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-00f0ff?style=flat-square&logo=modelcontextprotocol&logoColor=black)
-![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
 
 #### Linux life 🐧
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
