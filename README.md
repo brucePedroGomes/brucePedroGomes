@@ -27,7 +27,7 @@ const bruce = {
   experience: "7+ years building and operating production systems",
   location: "Brazil 🇧🇷 · remote (UTC−3, 1 to 2 hours ahead of US Eastern) · open to any country",
   languages: ["English (C1)", "Portuguese (native)"],
-  currentlyAt: "Levva · sole backend engineer and architect for Corteva (AWS end to end)",
+  currentlyAt: "Levva · sole backend engineer and architect of two Corteva products, AWS included",
   previously: ["SnackClub (US gaming startup)", "Quiq (delivery platform)", "LOUD (esports and creators)"],
   stack: ["Node.js", "TypeScript", "PostgreSQL", "AWS", "Docker", "React"],
   architecture: ["Serverless", "Containers", "Event-driven", "Microservices", "DDD"],
@@ -52,9 +52,9 @@ const bruce = {
 
 ### 🚀 Selected work
 
-- **80% lower annual infrastructure costs** · moved 5 APIs from EC2 to AWS Lambda and API Gateway (Levva · client Corteva)
-- **Satellite NDVI platform** · built in 2 months as sole engineer; first in Python (2024), moved to TypeScript in 2026
-- **WhatsApp AI assistant** · voice notes, photos and text become assessment drafts, with Amazon Bedrock, Transcribe and Twilio
+- **80% lower annual infrastructure costs for two products** · moved their 5 APIs from EC2 to AWS Lambda and API Gateway (Levva · client Corteva)
+- **Satellite NDVI monitoring** · part of the field-trials platform; built from scratch in 2 months as sole engineer; first in Python (2024), moved to TypeScript in 2026
+- **WhatsApp AI assistant** · part of the same platform; voice notes, photos and text become assessment drafts, with Amazon Bedrock, Transcribe and Twilio
 - **Influencer data at LOUD** · owned the Twitter (Node.js) and TikTok (Python) collectors, millions of records per day
 
 More on [brucegomes.com.br](https://www.brucegomes.com.br)
