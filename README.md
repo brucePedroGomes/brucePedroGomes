@@ -26,7 +26,7 @@ const bruce = {
   role: "Senior Software Engineer · backend-focused",
   experience: "7+ years building and operating production systems",
   location: "Brazil 🇧🇷 · remote (UTC−3, 1 to 2 hours ahead of US Eastern) · open to any country",
-  languages: ["English (C1)", "Portuguese (native)"],
+  languages: ["English (B2)", "Portuguese (native)"],
   currentlyAt: "Levva · sole backend engineer and architect of two Corteva products, AWS included",
   previously: ["SnackClub (US gaming startup)", "Quiq (delivery platform)", "LOUD (esports and creators)"],
   stack: ["Node.js", "TypeScript", "PostgreSQL", "AWS", "Docker", "React"],
