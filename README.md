@@ -52,7 +52,7 @@ const bruce = {
 
 ### 🚀 Selected work
 
-- **80% lower annual infrastructure costs for two products** · moved their 5 APIs from EC2 to AWS Lambda and API Gateway (Levva · client Corteva)
+- **Two products moved to AWS serverless** · from MVPs on EC2 with one MongoDB database to AWS Lambda and PostgreSQL on Amazon RDS; I chose serverless to cut costs, since farm use is seasonal (Levva · client Corteva)
 - **Satellite NDVI monitoring** · part of the field-trials platform; built from scratch in 2 months as sole engineer; first in Python (2024), moved to TypeScript in 2026
 - **WhatsApp AI assistant** · part of the same platform; voice notes, photos and text become assessment drafts, with Amazon Bedrock, Transcribe and Twilio
 - **Influencer data at LOUD** · owned the Twitter (Node.js) and TikTok (Python) collectors, millions of records per day
